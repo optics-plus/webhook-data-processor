@@ -11,7 +11,7 @@ This project implements a **Webhook Data Processor** designed for handling locat
 - **Supports analytics and visualization** via Amazon Redshift, Snowflake, and QuickSight.
 
 ## Architecture
-The system utilizes a **serverless architecture** powered by AWS:
+The system currently runs on a simple server setup but can be modified to utilize a **serverless architecture** powered by AWS:
 
 ![Overview](images/overview.jpg)
 
